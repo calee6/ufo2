@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FC588EBC-8499-46DC-2C88-3411EA4227F4}</ProjectGuid>
+    <ProjectGuid>{3709C2A0-F146-AAE3-1AA7-442FC908D7A4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,11 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteCameraController.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\CompletePlayerController.cs" />
-     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteRotator.cs" />
-     <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
+     <Compile Include="Assets\PlayerController.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
